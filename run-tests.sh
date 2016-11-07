@@ -1,1 +1,1 @@
-python ../../france/openfisca_france/tests/test_yaml.py openfisca_paris/*.yaml
+openfisca-run-test openfisca_paris
